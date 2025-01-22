@@ -4,7 +4,7 @@
  
  👨‍💻 I specialize in: **JavaScript, Python, and html css** 
  
- 🛠️ Tools: **MREN, Pandas, Numpy, React, Tailwindcss, Bootstrap**
+ 🛠️ Tools: **MREN, Pandas, Numpy, React, Tailwindcss**
  
  🚀 Currently learn: **AI And ML**
  
