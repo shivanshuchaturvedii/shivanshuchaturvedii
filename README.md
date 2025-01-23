@@ -12,7 +12,7 @@
 
 🌐 Check out my projects: [ Repository ](https://github.com/shivanshuchaturvedii?tab=repositories)
 
-📂 Check out: [Amazon](https://github.com/shivanshuchaturvedii/amozon-project.git) 
+📂 Check out: [Amazon](https://github.com/shivanshuchaturvedii/amazon-project) 
 
  📝 I’m happy to collaborate! Reach out at [email](shivanshuchaturvedi657@gmail.com)
 
