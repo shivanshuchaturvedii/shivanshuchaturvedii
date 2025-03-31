@@ -1,6 +1,6 @@
   ## Hello, I'm Shivanshu 👋
 
- 🌟 Interests: **Full-stack development**, **APIs**, and **AI ML**.
+ 🌟 Interests: **Software development**, **APIs**, and **AI ML**.
  
  👨‍💻 I specialize in: **JavaScript, Python, and html css** 
  
